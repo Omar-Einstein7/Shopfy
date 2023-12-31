@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511831403903",
+    "project_id": "authfire-5bdea",
+    "storage_bucket": "authfire-5bdea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511831403903:android:2a85d2f6e88e521a7dbe4a",
+        "android_client_info": {
+          "package_name": "com.example.shopfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511831403903-5a4acqatq6m2is2k7ntseu3cu8mn55ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpi2FHcAttPaKy3P59SoM_-dnExJHOQj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511831403903-5a4acqatq6m2is2k7ntseu3cu8mn55ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

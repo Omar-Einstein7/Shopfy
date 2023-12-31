@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>511831403903-2pthfkpr7vc09nutkg0npo7na564k88l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.511831403903-2pthfkpr7vc09nutkg0npo7na564k88l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDusDrnfIGTDix4-q8wzVTPnfYS9mytjvQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>511831403903</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.shopfy</string>
+	<key>PROJECT_ID</key>
+	<string>authfire-5bdea</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authfire-5bdea.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:511831403903:ios:c09e3169017c777b7dbe4a</string>
+</dict>
+</plist>
