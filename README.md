@@ -56,7 +56,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/shopfy.git
+   git clone https://github.com/Omar-Einstien7/shopfy.git
    cd shopfy
    ```
 
@@ -103,8 +103,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Contact
 
-Developed by **[Your Name]**  
-📧 Email: your.email@example.com  
+Developed by **[Omar Ahmed]**  
+📧 Email: omarhan113355@gmail.com  
 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
